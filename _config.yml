@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Hanwoo114
 
 # Your name to show in the footer
-author: Some Person
+author: Hanwoo
 
 # --- List of links in the navigation bar --- #
 
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
+  github: Hanwoo114
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
